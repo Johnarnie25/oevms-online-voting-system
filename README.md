@@ -15,8 +15,7 @@ A secure full-stack online voting system developed as a capstone project, design
 
 ## Tech Stack
 
-* Laravel (PHP)
-* React
+* PHP
 * MySQL
 * JavaScript
 * PHPMailer (Gmail SMTP)
